@@ -1,0 +1,15 @@
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.csproj.AssemblyReference.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.AssemblyInfoInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.AssemblyInfo.cs
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.csproj.CoreCompileInputs.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\bin\Debug\net6.0\Dom W3 task 21.exe
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\bin\Debug\net6.0\Dom W3 task 21.deps.json
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\bin\Debug\net6.0\Dom W3 task 21.runtimeconfig.json
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\bin\Debug\net6.0\Dom W3 task 21.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\bin\Debug\net6.0\Dom W3 task 21.pdb
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\refint\Dom W3 task 21.dll
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.pdb
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\Dom W3 task 21.genruntimeconfig.cache
+C:\Users\Maks-\ДОМАШКА C#\Dom W3 task 21\obj\Debug\net6.0\ref\Dom W3 task 21.dll
